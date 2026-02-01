@@ -1,4 +1,13 @@
 # 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20PostgreSQL%20%7C%20MS%20SQL-blueviolet)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-green)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-brightgreen)
+![Portfolio Project](https://img.shields.io/badge/Type-Portfolio%20Project-important)
+
+
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 This project is perfect for:
